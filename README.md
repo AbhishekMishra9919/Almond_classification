@@ -6,7 +6,7 @@ means models have to outperform a lot of humans both in speed and accuracy, we n
 
 This repository contains two distinct approaches to do so:
 1. Deep Learning.
-2. Shape modelling*(this is work to be done)*
+2. Shape modelling *(this is work to be done)*
 
 # Work done till now:
 A simple python notebook that can be used as an end-to-end for training and testing a given dataset.
